@@ -8,7 +8,6 @@
     "base_font": "serif",
     "header": {
         "title": "Kidem",
-        "logo": "images/classic/logo.svg",
         "logo_alt": "KIdem",
         "has_primary_nav": true,
         "primary_nav_links": [
