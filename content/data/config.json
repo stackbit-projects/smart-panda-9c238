@@ -12,11 +12,6 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Qui som?  ",
-                "url": "/features",
-                "style": "link"
-            },
-            {
                 "label": "Presentació",
                 "url": "#",
                 "style": "link",
@@ -26,6 +21,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Qui som?  ",
+                "url": "/features",
+                "style": "link"
             },
             {
                 "label": "Metodologia i valors",
