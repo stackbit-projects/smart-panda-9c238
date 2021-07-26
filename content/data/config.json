@@ -47,7 +47,7 @@
         "secondary_nav_links": [
             {
                 "label": "Contacte",
-                "url": "/general-enquiries/",
+                "url": "/general-enquiries",
                 "style": "link"
             },
             {
